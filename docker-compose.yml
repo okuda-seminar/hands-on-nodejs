@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  handson_js:
+    build:
+      context: .
+    tty: true
+    volumes:
+      - .:/workdir
