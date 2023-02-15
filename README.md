@@ -1,3 +1,3 @@
 # handson-javascript
 
-https://github.com/oreilly-japan/hands-on-javascript
+[Original Repo](https://github.com/oreilly-japan/hands-on-javascript)
