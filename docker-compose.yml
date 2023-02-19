@@ -1,9 +1,10 @@
 version: '3'
 
 services:
-  handson_js:
+  handson_nodejs:
     build:
       context: .
+    container_name: handson_nodejs
     tty: true
     volumes:
       - .:/workdir
